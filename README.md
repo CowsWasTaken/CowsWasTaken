@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on a **Vocabulary App (Backend: NestJs + GraphQL, Website: Angular, Mobile: Kotlin, Firefox Plugin)**
 
-- 📫 How to reach me **discord (linked below)**
+- 📫 How to reach me **Discord Cows#4692 or linked below**
 
 
 <br>
