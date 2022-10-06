@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **NestJs, Apps with Overwolf**
 
-- 💬 Ask me about **anything useless to build**
+- 🔭 I’m currently working on a **Vocabulary App (Backend: NestJs + GraphQL, Website: Angular, Mobile: Kotlin, Firefox Plugin)**
 
 - 📫 How to reach me **discord (linked below)**
 
