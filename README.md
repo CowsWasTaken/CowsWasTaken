@@ -32,4 +32,3 @@
   <a href="https://discord.gg/https://discord.com/users/447331693708443668" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/users/447331693708443668" height="30" width="40" /></a>
 </p>
 <br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cowswastaken&show_icons=true&locale=en" alt="cowswastaken" /></p>
