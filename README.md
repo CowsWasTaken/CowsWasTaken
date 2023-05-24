@@ -2,7 +2,7 @@
 <h3 align="center">i build stuff for my own purpose that are pretty much useless to the majority of people:)</h3>
 <br>
 
-- 🌱 I’m currently learning **NestJs, Apps with Overwolf**
+- 🌱 I’m currently learning **Cross-Plafform Apps with Flutter**
 
 - 🔭 I’m currently working on a **Vocabulary App (Backend: NestJs + GraphQL, Website: Angular, Mobile: Kotlin, Firefox Plugin)**
 
